@@ -8,5 +8,6 @@ Watch tutorial on YouTube.
 
 ## Local Development
 
-1. in your browser, open index.html.
-2. watch tutorial.
+1. Open index.html in your browser.
+2. Watch viedo.
+3. Keep remote branch.
